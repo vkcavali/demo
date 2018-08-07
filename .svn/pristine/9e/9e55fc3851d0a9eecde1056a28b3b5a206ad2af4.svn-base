@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <title>Tornado - System Monitoring</title>
+    <meta name="description" content="Dashmix - Bootstrap 4 Admin Template &amp; UI Framework created by pixelcave and published on Themeforest | This is the demo of Dashmix! You need to purchase a license for legal use! | DEMO">
+    <meta name="author" content="pixelcave">
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="og:title" content="Dashmix - Bootstrap 4 Admin Template &amp; UI Framework | DEMO">
+    <meta property="og:site_name" content="Dashmix">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <!-- <link rel="icon" type="image/png" sizes="192x192" href="%PUBLIC_URL%/Images/favico.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="%PUBLIC_URL%/Images/favicon-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="%PUBLIC_URL%/Images/apple-touch-icon-180x180.png"> -->    
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700"> -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,400i,600,700">
+    <link rel="stylesheet" href="%PUBLIC_URL%/assest/css/dashmix.min-1.2.css" id="css-main">
+    
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root"></div>
+
+    <script src="%PUBLIC_URL%/assest/js/dashmix.core.min-1.2.js"></script>
+    <script src="%PUBLIC_URL%/assest/js/dashmix.app.min-1.2.js"></script>
+    <script src="%PUBLIC_URL%/assest/js/plugins/jquery-sparkline/jquery.sparkline.min.js"></script>
+    <script src="%PUBLIC_URL%/assest/js/plugins/chart.js/Chart.bundle.min.js"></script>
+    <script src="%PUBLIC_URL%/assest/js/pages/be_pages_dashboard.min.js"></script>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+  </body>
+
+  
+</html>
